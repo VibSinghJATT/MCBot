@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "KKepik.aternos.me:43977",
-    "port": 43977,
+    "port": "43977",
     "version": "1.21.11",
     "try-creative": true
   },
