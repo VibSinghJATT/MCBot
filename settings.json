@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KKepik.aternos.me:43977",
-    "port": "43977",
+    "ip": "KKepik.aternos.me",
+    "port": 43977,
     "version": "1.21.11",
     "try-creative": true
   },
